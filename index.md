@@ -1,3 +1,9 @@
+# Jackson Mehling's First CS193 Homework
+
+- The students that present information at our lectures are very chill!
+- CS193 seems to be vital to my career as a CS major (and for jobs).
+- The presentations that are used during class are interactive and relatable.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -10,6 +16,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
+
+# Jackson Mehling's First CS193 Homework
+
+- The students that present information at our lectures are very chill!
+- CS193 seems to be vital to my career as a CS major (and for jobs).
+- The presentations that are used during class are interactive and relatable.
 
 # Header 1
 ## Header 2
@@ -35,3 +47,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+theme: Time machine
